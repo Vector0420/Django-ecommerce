@@ -30,5 +30,5 @@ This is a simple e-commerce application built with Django. It features user regi
 ### Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/ecommerce.git
-cd ecommerce
+git clone https://github.com/Vector0420/Django-ecommerce
+cd Django-ecommerce
